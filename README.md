@@ -20,13 +20,13 @@
 
 ### Connect with me:
 
-[<img align="left" alt="Nishil | Mail" width="22px" src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/gmail.svg" />](mailto:nishilmadhani@gmail.com)
+[<img align="left" alt="Nishil | Mail" width="35px" src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/gmail.svg" />](mailto:nishilmadhani@gmail.com)
 [<img align="left" alt="codeSTACKr | LinkedIn" width="35px" src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/linkedin.svg" />](https://www.linkedin.com/in/nishil-madhani/)
 [<img align="left" alt="codeSTACKr | Hackerrank" width="35px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/hackerrank.svg" />](https://www.hackerRank.com/nishilmadhani)
 [<img align="left" alt="codeSTACKr | Instagram" width="35px" src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/instagram.svg" />](https://www.instagram.com/nishilmadhani/)
 [<img align="left" alt="codeSTACKr | Medium" width="35px" src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/medium.svg" />](https://medium.com/@nishilmadhani)
 
-
+</br>
 📊 **This week I spent my time on**
 <!--START_SECTION:waka-->
 ```text
@@ -35,8 +35,8 @@ CSS          1 hrs 41 mins   ███████▓░░░░░░░░░
 PYTHON       1 hrs 33 mins   ██████▒░░░░░░░░░░░░░░░░░░   20.89 % 
 SQL          19 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   04.26 % 
 R            15 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.37 %
-<!--END_SECTION:waka-->
 ```
+<!--END_SECTION:waka-->
 
 ### Languages and Tools:
 
