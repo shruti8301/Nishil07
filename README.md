@@ -2,15 +2,15 @@
 <h3 align="center">An exuberant Data Scientist and aspiring to become a proficient Python Developer</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Nishil07" alt="Nishil Madhani" /> </p>
 
-- 🔭 I’m currently working on **Check Book Buy[online shopping in pandemic]**(https://github.com/Nishil07/Chai_time_hack)
+- 🔭 I’m currently working on [Check Book Buyonline shopping in pandemic](https://github.com/Nishil07/Chai_time_hack)
 
 - 🌱 I’m currently learning **Computer Vision and Frontend Web Develeopment**
 
-- 👨‍💻 All of my projects are available at **[https://www.github.com/Nishil07]**(https://www.github.com/Nishil07)
+- 👨‍💻 All of my projects are available at [https://www.github.com/Nishil07](https://www.github.com/Nishil07)
 
 - 💬 Ask me anythong about **Machine Learning, Deep Learning, Python, C, C++ and Sql**
 
-- 📝 Recently I have published my first blog on **Medium:[Let's build a RNN, Pytorch-style]**(https://medium.com/@nishilmadhani/lets-build-a-rnn-pytorch-style-c960207f1fb3?sk=642d0917208da77b8d864801c78f48d8)
+- 📝 Recently I have published my first blog on Medium:[Let's build a RNN, Pytorch-style](https://medium.com/@nishilmadhani/lets-build-a-rnn-pytorch-style-c960207f1fb3?sk=642d0917208da77b8d864801c78f48d8)
 
 - 🥅 2020 Goals: Contribute more to **Open Source** projects
 
@@ -26,7 +26,6 @@
 [<img align="left" alt="codeSTACKr | Instagram" width="35px" src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/instagram.svg" />](https://www.instagram.com/nishilmadhani/)
 [<img align="left" alt="codeSTACKr | Medium" width="35px" src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/medium.svg" />](https://medium.com/@nishilmadhani)
 
-</br>
 📊 **This week I spent my time on**</br>
 <!--START_SECTION:waka-->
 ``` text
