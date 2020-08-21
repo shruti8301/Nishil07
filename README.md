@@ -2,21 +2,21 @@
 <h3 align="center">An exuberant Data Scientist and aspiring to become a proficient Python Developer</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Nishil07" alt="Nishil Madhani" /> </p>
 
-- 🔭 I’m currently working on Check Book Buy[online shopping pandemic](https://github.com/Nishil07/Chai_time_hack)
+- 🔭 I’m currently working on **Check Book Buy[online shopping in pandemic]**(https://github.com/Nishil07/Chai_time_hack)
 
-- 🌱 I’m currently learning Computer Vision and Frontend Web Develeopment
+- 🌱 I’m currently learning **Computer Vision and Frontend Web Develeopment**
 
-- 👨‍💻 All of my projects are available at [https://www.github.com/Nishil07](https://www.github.com/Nishil07)
+- 👨‍💻 All of my projects are available at **[https://www.github.com/Nishil07]**(https://www.github.com/Nishil07)
 
-- 💬 Ask me anythong about *Machine Learning, Deep Learning, Python, C, C++, Sql*
+- 💬 Ask me anythong about **Machine Learning, Deep Learning, Python, C, C++ and Sql**
 
-- 📝 Recently I have published my first blog on Medium:[Let's build a RNN, Pytorch-style](https://medium.com/@nishilmadhani/lets-build-a-rnn-pytorch-style-c960207f1fb3?sk=642d0917208da77b8d864801c78f48d8)
+- 📝 Recently I have published my first blog on **Medium:[Let's build a RNN, Pytorch-style]**(https://medium.com/@nishilmadhani/lets-build-a-rnn-pytorch-style-c960207f1fb3?sk=642d0917208da77b8d864801c78f48d8)
 
--🥅 2020 Goals: Contribute more to Open Source projects
+- 🥅 2020 Goals: Contribute more to **Open Source** projects
 
-- 📫 How to reach me *nishilmadhani@gmail.com*
+- 📫 How to reach me **nishilmadhani@gmail.com**
 
-- ⚡ Fun fact *Data Science over Full Stack*
+- ⚡ Fun fact **Data Science over Full Stack**
 
 ### Connect with me:
 
@@ -28,9 +28,9 @@
 
 <br />
 
-📊 *This week I spent my time on*
+📊 **This week I spent my time on**
 <!--START_SECTION:waka-->
-text
+
 HTML         3 hrs 37 mins   ██████████████░░░░░░░░░░░   48.76 % 
 CSS          1 hrs 41 mins   ███████▓░░░░░░░░░░░░░░░░░   22.69 % 
 PYTHON       1 hrs 33 mins   ██████▒░░░░░░░░░░░░░░░░░░   20.89 % 
