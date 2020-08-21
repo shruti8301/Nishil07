@@ -26,7 +26,6 @@
 [<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/instagram.svg" />](https://www.instagram.com/nishilmadhani/)
 [<img align="left" alt="codeSTACKr | Medium" width="22px" src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/medium.svg" />](https://medium.com/@nishilmadhani)
 
-<br />
 
 📊 **This week I spent my time on**
 <!--START_SECTION:waka-->
