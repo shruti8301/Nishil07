@@ -2,7 +2,7 @@
 <h3 align="center">An exuberant Data Scientist and aspiring to become a proficient Python Developer</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Nishil07" alt="Nishil Madhani" /> </p>
 
-- 🔭 I’m currently working on [Check Book Buyonline shopping in pandemic](https://github.com/Nishil07/Chai_time_hack)
+- 🔭 I’m currently working on [Check Book Buy online shopping in pandemic](https://github.com/Nishil07/Chai_time_hack)
 
 - 🌱 I’m currently learning **Computer Vision and Frontend Web Develeopment**
 
@@ -25,15 +25,15 @@
 [<img align="left" alt="codeSTACKr | Hackerrank" width="35px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/hackerrank.svg" />](https://www.hackerRank.com/nishilmadhani)
 [<img align="left" alt="codeSTACKr | Instagram" width="35px" src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/instagram.svg" />](https://www.instagram.com/nishilmadhani/)
 [<img align="left" alt="codeSTACKr | Medium" width="35px" src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/medium.svg" />](https://medium.com/@nishilmadhani)
-
-📊 **This week I spent my time on**</br>
+<br/>
+📊 **This week I spent my time on**<br/>
 <!--START_SECTION:waka-->
 ``` text
-HTML         3 hrs 37 mins   ██████████████░░░░░░░░░░░   48.76 % </br>
-CSS          1 hrs 41 mins   ███████▓░░░░░░░░░░░░░░░░░   22.69 % </br>
-PYTHON       1 hrs 33 mins   ██████▒░░░░░░░░░░░░░░░░░░   20.89 % </br>
-SQL          19 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   04.26 % </br>
-R            15 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.37 % </br>
+HTML         3 hrs 37 mins   ██████████████░░░░░░░░░░░   48.76 % <br/>
+CSS          1 hrs 41 mins   ███████▓░░░░░░░░░░░░░░░░░   22.69 % <br/>
+PYTHON       1 hrs 33 mins   ██████▒░░░░░░░░░░░░░░░░░░   20.89 % <br/>
+SQL          19 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   04.26 % <br/>
+R            15 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.37 % <br/>
 ```
 <!--END_SECTION:waka-->
 
