@@ -28,7 +28,7 @@
 
 <br/>
 <br/>
-<h3> 📊 This week I spent my time on:</h3><br/>
+📊 <h3>This week I spent my time on:</h3><br/>
 <!--START_SECTION:waka-->
 ``` text
 HTML         3 hrs 37 mins   ██████████████░░░░░░░░░░░   48.76 % <br/>
