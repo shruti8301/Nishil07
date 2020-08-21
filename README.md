@@ -16,7 +16,7 @@
 
 - 📫 How to reach me **nishilmadhani@gmail.com**
 
-- ⚡ Fun fact **Data Science over Full Stack**
+- ⚡ Fun fact: **Data Science over Full Stack**
 
 ### Connect with me:
 
@@ -26,7 +26,6 @@
 [<img align="left" alt="codeSTACKr | Instagram" width="35px" src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/instagram.svg" />](https://www.instagram.com/nishilmadhani/)
 [<img align="left" alt="codeSTACKr | Medium" width="35px" src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/medium.svg" />](https://medium.com/@nishilmadhani)
 
-<br/>
 <br/>
 📊 **This week I spent my time on:**<br/>
 <!--START_SECTION:waka-->
