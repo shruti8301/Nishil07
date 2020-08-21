@@ -10,15 +10,22 @@
 
 - 💬 Ask me anythong about **Machine Learning, Deep Learning, Python, C, C++ and Sql**
 
-- 📝 Recently I have published my first blog on Medium:[Let's build a RNN, Pytorch-style](https://medium.com/@nishilmadhani/lets-build-a-rnn-pytorch-style-c960207f1fb3?sk=642d0917208da77b8d864801c78f48d8)
+- 📝 Recently I have published my first blog on Medium: [Let's build a RNN, Pytorch-style](https://medium.com/@nishilmadhani/lets-build-a-rnn-pytorch-style-c960207f1fb3?sk=642d0917208da77b8d864801c78f48d8)
 
 - 🥅 2020 Goals: Contribute more to **Open Source** projects
 
 - 📫 How to reach me **nishilmadhani@gmail.com**
 
-- ⚡ Fun fact: **Data Science over Full Stack**
+- ⚡ Fun fact **Data Science over Full Stack**
 
-<br/>
+### Connect with me:
+
+[<img align="left" alt="Nishil | Mail" width="35px" src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/gmail.svg" />](mailto:nishilmadhani@gmail.com)
+[<img align="left" alt="codeSTACKr | LinkedIn" width="35px" src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/linkedin.svg" />](https://www.linkedin.com/in/nishil-madhani/)
+[<img align="left" alt="codeSTACKr | Hackerrank" width="35px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/hackerrank.svg" />](https://www.hackerRank.com/nishilmadhani)
+[<img align="left" alt="codeSTACKr | Instagram" width="35px" src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/instagram.svg" />](https://www.instagram.com/nishilmadhani/)
+[<img align="left" alt="codeSTACKr | Medium" width="35px" src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/medium.svg" />](https://medium.com/@nishilmadhani)
+
 📊 **This week I spent my time on**<br/>
 <!--START_SECTION:waka-->
 ``` text
@@ -29,14 +36,6 @@ SQL          19 mins         ▓░░░░░░░░░░░░░░░░
 R            15 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.37 % <br/>
 ```
 <!--END_SECTION:waka-->
-
-### Connect with me:
-
-[<img align="left" alt="Nishil | Mail" width="35px" src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/gmail.svg" />](mailto:nishilmadhani@gmail.com)
-[<img align="left" alt="codeSTACKr | LinkedIn" width="35px" src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/linkedin.svg" />](https://www.linkedin.com/in/nishil-madhani/)
-[<img align="left" alt="codeSTACKr | Hackerrank" width="35px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/hackerrank.svg" />](https://www.hackerRank.com/nishilmadhani)
-[<img align="left" alt="codeSTACKr | Instagram" width="35px" src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/instagram.svg" />](https://www.instagram.com/nishilmadhani/)
-[<img align="left" alt="codeSTACKr | Medium" width="35px" src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/medium.svg" />](https://medium.com/@nishilmadhani)
 
 ### Languages and Tools:
 
