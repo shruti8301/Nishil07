@@ -27,7 +27,7 @@
 [<img align="left" alt="codeSTACKr | Medium" width="35px" src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/medium.svg" />](https://medium.com/@nishilmadhani)
 
 <br/>
-📊 **This week I spent my time on:**<br/>
+📊 **This week I spent my time on**<br/>
 <!--START_SECTION:waka-->
 ``` text
 HTML         3 hrs 37 mins   ██████████████░░░░░░░░░░░   48.76 % <br/>
