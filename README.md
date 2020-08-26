@@ -1,8 +1,8 @@
 <h1 align="center">Hola 👋, I'm Nishil Madhani</h1>
-<h3 align="center">An exuberant Data Scientist and aspiring to become a proficient Python Developer</h3>
+<h3 align="center">A Data Science enthusiast and aspiring to become a proficient Python Developer</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Nishil07" alt="Nishil Madhani" /> </p>
 
-- 🔭 I’m currently working on [Check Book Buy online shopping in pandemic](https://github.com/Nishil07/Chai_time_hack)
+- 🔭 I’m currently working on [Purchasing-Pattern-in-Starbucks](https://github.com/Team-Fourth-Dimension/Purchasing-Pattern-in-Starbucks)
 
 - 🌱 I’m currently learning **Computer Vision and Frontend Web Develeopment**
 
