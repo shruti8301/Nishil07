@@ -1,58 +1,45 @@
-<h1 align="center">Hola 👋, I'm Nishil Madhani</h1>
-<h3 align="center">A Data Science enthusiast and aspiring to become a proficient Python Developer</h3>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Nishil07" alt="Nishil Madhani" /> </p>
+<h1 align="center">Hey there!👋, I am Shruti Gupta.</h1>
+<h3 align="center">An Android App Developer.</h3>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=shruti8301" alt="shruti gupta" /> </p>
 
-- 🔭 I’m currently working on [Purchasing-Pattern-in-Starbucks](https://github.com/Team-Fourth-Dimension/Purchasing-Pattern-in-Starbucks)
+- 🔭 I’m currently working on Automated Restaurant System.
 
-- 🌱 I’m currently learning **Computer Vision and Frontend Web Develeopment**
+- 🌱 I’m currently learning deployment of Machine Learning Models in API, flutter and UI/UX desigining.
 
-- 👨‍💻 All of my projects are available at [https://www.github.com/Nishil07](https://www.github.com/Nishil07)
+- 👨‍💻 All of my projects are available at [https://github.com/shruti8301](https://github.com/shruti8301)
 
-- 💬 Ask me anythong about **Machine Learning, Deep Learning, Python, C, C++ and Sql**
+- 📝 I will be posting my articles on [https://medium.com/@shruti8301](https://medium.com/@shruti8301)
 
-- 📝 Recently I have published my first blog on Medium: [Let's build a RNN, Pytorch-style](https://medium.com/@nishilmadhani/lets-build-a-rnn-pytorch-style-c960207f1fb3?sk=642d0917208da77b8d864801c78f48d8)
+- 💬 Ask me about **Android App development-JAVA,C, C++, SQL,Python**
 
-- 🥅 2020 Goals: Contribute more to **Open Source** projects
+- 🥅 2020 Goals: Contribute more to Open Source projects.
 
-- 📫 How to reach me **nishilmadhani@gmail.com**
+- 📫 Reach me at: **shruti8301@gmail.com**
 
-- ⚡ Fun fact **Data Science over Full Stack**
+- ⚡ Fun fact **Java over Kotlin**
 
 ### Connect with me:
 
-[<img align="left" alt="Nishil | Mail" width="35px" src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/gmail.svg" />](mailto:nishilmadhani@gmail.com)
-[<img align="left" alt="codeSTACKr | LinkedIn" width="35px" src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/linkedin.svg" />](https://www.linkedin.com/in/nishil-madhani/)
-[<img align="left" alt="codeSTACKr | Hackerrank" width="35px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/hackerrank.svg" />](https://www.hackerRank.com/nishilmadhani)
-[<img align="left" alt="codeSTACKr | Instagram" width="35px" src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/instagram.svg" />](https://www.instagram.com/nishilmadhani/)
-[<img align="left" alt="codeSTACKr | Medium" width="35px" src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/medium.svg" />](https://medium.com/@nishilmadhani)
+[<img align="left" alt="shruti801 | LinkedIn" width="35px" src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/linkedin.svg" />](linkedin.com/in/shruti-gupta-bb96701a8/)
+[<img align="left" alt="shruti8301 | Instagram" width="35px" src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/instagram.svg" />](https://www.instagram.com/shrutiiii_guptaaa/)
+[<img align="left" alt="shruti8301| Gmail" width="35px" src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/gmail.svg" />](mailto:shruti8301@gmail.com)
+[<img align="left" alt="shruti8301 | hackerrank" width="35px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/hackerrank.svg" />](https://www.hackerrank.com/shruti_8301)
+[<img align="left" alt="shruti8301 | Medium" width="35px" src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/medium.svg" />](https://medium.com/@shruti8301)
 <br/>
 
-📊 This week I worked on:<br/>
-<!--START_SECTION:waka-->
-``` text
-HTML         3 hrs 37 mins   ██████████████░░░░░░░░░░░   48.76 % 
-CSS          1 hrs 41 mins   ███████▓░░░░░░░░░░░░░░░░░   22.69 % 
-PYTHON       1 hrs 33 mins   ██████▒░░░░░░░░░░░░░░░░░░   20.89 % 
-SQL          19 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   04.26 % 
-R            15 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.37 % 
-```
-<!--END_SECTION:waka-->
+**Languages and Tools:**
 
-### Languages and Tools:
-
-<code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
-<code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
+<code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"></code>
 <code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
-<code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
 <code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c/c.png"></code>
 <code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/r/r.png"></code>
 <code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 <code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
 <code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png"></code>
-<code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/jupyter-notebook/jupyter-notebook.png"></code>
+<code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png"></code>
+<code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/kotlin/kotlin.png"></code>
 <code><img height="35" src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/stackoverflow.svg"></code>
-
-![Nishil's github stats](https://github-readme-stats.vercel.app/api?username=Nishil07&&show_icons=true&hide_border=false&title_color=ffffff&text_color=daf7dc&icon_color=bb2acf&bg_color=191919)
-
-![MSL](https://github-readme-stats.vercel.app/api/top-langs/?username=Nishil07&layout=compact&hide_border=false&title_color=ffffff&text_color=daf7dc&icon_color=bb2acf&bg_color=191919)
-
+<p align="center"><b>Shruti's Github Stats!</b></p>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=shruti8301&&show_icons=true&hide_border=false&title_color=ffffff&text_color=daf7dc&icon_color=bb2acf&bg_color=191919"></p>
+<p align="center"><b>Most used languages.</b></p>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shruti8301&layout=compact&hide_border=false&title_color=ffffff&text_color=daf7dc&icon_color=bb2acf&bg_color=191919">
