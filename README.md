@@ -19,7 +19,7 @@
 
 ### Connect with me:
 
-[<img align="left" alt="shruti801 | LinkedIn" width="35px" src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/linkedin.svg" />](linkedin.com/in/shruti-gupta-bb96701a8/)
+[<img align="left" alt="shruti801 | LinkedIn" width="35px" src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/linkedin.svg" />](https://www.linkedin.com/in/shruti-gupta-bb96701a8/)
 [<img align="left" alt="shruti8301 | Instagram" width="35px" src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/instagram.svg" />](https://www.instagram.com/shrutiiii_guptaaa/)
 [<img align="left" alt="shruti8301| Gmail" width="35px" src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/gmail.svg" />](mailto:shruti8301@gmail.com)
 [<img align="left" alt="shruti8301 | hackerrank" width="35px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/hackerrank.svg" />](https://www.hackerrank.com/shruti_8301)
