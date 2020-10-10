@@ -2,9 +2,8 @@
 <h3 align="center">An Android App Developer.</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shruti8301" alt="shruti gupta" /> </p>
 
-- 🔭 I’m currently working on Social media clone.
 
-- 🌱 I’m currently learning deployment of Machine Learning Models in API, flutter and UI/UX desigining.
+- 🌱 I’m currently learning deployment of Machine Learning Models in API and UI/UX desigining.
 
 - 👨‍💻 All of my projects are available at [https://github.com/shruti8301](https://github.com/shruti8301)
 
