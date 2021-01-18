@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **Android App development-JAVA,C, C++, SQL,Python**
 
-- 🥅 2020 Goals: Contribute more to Open Source projects.
+- 🥅 2021 Goals: Contribute more to Open Source projects.
 
 - 📫 Reach me at: **shruti8301@gmail.com**
 
