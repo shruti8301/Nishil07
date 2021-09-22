@@ -1,5 +1,5 @@
 <h1 align="center">Hey there!👋, I am Shruti Gupta.</h1>
-<h3 align="center">Software Developer.</h3>
+<h3 align="center">A Software Developer.</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shruti8301" alt="shruti gupta" /> </p>
 
 
